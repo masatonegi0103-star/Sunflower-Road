@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "textalive-app-api": "^0.4.0"
+  }
+}
